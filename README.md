@@ -16,7 +16,7 @@ This shell script is designed to send daily emails containing CPU information to
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/cpu-info-emailer.git
+    git clone https://github.com/maulik4107/CPU-Info-Sender.git
     cd cpu-info-emailer
     ```
 
